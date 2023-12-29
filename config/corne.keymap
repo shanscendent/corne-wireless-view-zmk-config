@@ -75,10 +75,10 @@
 
             label = "Raise";
             bindings = <
-&trans  &kp SQT          &kp LESS_THAN  &kp GREATER_THAN  &kp DOUBLE_QUOTES  &kp DOT           &kp AMPERSAND  &kp COLON      &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp PERCENT   &trans
-&trans  &kp EXCLAMATION  &kp MINUS      &kp PLUS          &kp EQUAL          &kp POUND         &kp PIPE       &kp SEMICOLON  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp QUESTION  &trans
-&trans  &kp CARET        &kp FSLH       &kp ASTERISK      &kp BSLH           &kp UNDERSCORE    &kp TILDE      &kp DOLLAR     &kp LBRC              &kp RBRC               &kp AT_SIGN   &trans
-                                        &trans            &trans             &trans            &trans         &trans         &trans
+&kp GRAVE  &kp SINGLE_QUOTE  &kp LESS_THAN  &kp GREATER_THAN  &kp DOUBLE_QUOTES  &kp DOT           &kp AMPERSAND  &kp COLON      &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp PERCENT   &trans
+&trans     &kp EXCLAMATION   &kp MINUS      &kp PLUS          &kp EQUAL          &kp POUND         &kp PIPE       &kp SEMICOLON  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp QUESTION  &trans
+&trans     &kp CARET         &kp FSLH       &kp ASTERISK      &kp BSLH           &kp UNDERSCORE    &kp TILDE      &kp DOLLAR     &kp LBRC              &kp RBRC               &kp AT_SIGN   &trans
+                                            &trans            &trans             &trans            &trans         &trans         &trans
             >;
         };
 
