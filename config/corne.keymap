@@ -72,6 +72,8 @@
             label = "LH_CTRL";
             #binding-cells = <0>;
             bindings = <&mt LCTRL BACKSPACE>, <&kp LC(LEFT_SHIFT)>;
+
+            tapping-term-ms = <100>;
         };
     };
 
