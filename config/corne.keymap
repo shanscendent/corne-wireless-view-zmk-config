@@ -65,6 +65,8 @@
             label = "LH_SPACE";
             #binding-cells = <0>;
             bindings = <&lt 1 RET>, <&kt LALT>;
+
+            tapping-term-ms = <100>;
         };
 
         lh_ctrl: lh_ctrl {
