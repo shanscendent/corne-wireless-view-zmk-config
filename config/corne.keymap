@@ -53,7 +53,7 @@
         };
 
         reopen_tab {
-            bindings = <&kp LC(LS(W))>;
+            bindings = <&kp LC(LS(T))>;
             key-positions = <17 16>;
             layers = <1>;
         };
