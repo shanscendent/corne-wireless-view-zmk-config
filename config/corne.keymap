@@ -99,10 +99,10 @@
 
             label = "Lower";
             bindings = <
-&trans  &kp N1             &kp N2             &kp N3           &kp N4       &kp N5                  &kp N6        &kp N7  &kp N8  &kp N9  &kp N0      &trans
-&trans  &kp LC(N1)         &kp LC(GRAVE)      &kp LC(LS(TAB))  &kp LC(TAB)  &kp LC(W)               &kp ASTERISK  &kp N4  &kp N5  &kp N6  &kp PLUS    &kp MINUS
-&trans  &kp C_VOLUME_DOWN  &kp C_VOLUME_DOWN  &kp C_PREVIOUS   &kp C_NEXT   &kp C_BRIGHTNESS_INC    &kp SLASH     &kp N1  &kp N2  &kp N3  &kp PERIOD  &trans
-                                              &trans           &trans       &trans                  &trans        &trans  &trans
+&trans  &kp N1             &kp N2         &kp N3           &kp N4       &kp N5                  &kp N6        &kp N7  &kp N8  &kp N9  &kp N0      &trans
+&trans  &kp LC(N1)         &kp LC(GRAVE)  &kp LC(LS(TAB))  &kp LC(TAB)  &kp LC(W)               &kp ASTERISK  &kp N4  &kp N5  &kp N6  &kp PLUS    &kp MINUS
+&trans  &kp C_VOLUME_DOWN  &kp C_VOL_UP   &kp C_PREVIOUS   &kp C_NEXT   &kp C_BRIGHTNESS_INC    &kp SLASH     &kp N1  &kp N2  &kp N3  &kp PERIOD  &trans
+                                          &trans           &trans       &trans                  &trans        &trans  &trans
             >;
         };
 
