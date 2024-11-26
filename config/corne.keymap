@@ -114,7 +114,7 @@
         ht_caps: ht_caps {
             compatible = "zmk,behavior-hold-tap";
             label = "HT_CAPS";
-            bindings = <&caps_word>, <&kp>;
+            bindings = <&caps_layer>, <&kp>;
 
             #binding-cells = <2>;
             tapping-term-ms = <150>;
