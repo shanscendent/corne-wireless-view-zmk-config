@@ -73,10 +73,10 @@
             #binding-cells = <0>;
             bindings =
                 <&macro_press>,
-                <&mo 5 &kp LA(LC(LEFT_GUI))>,
+                <&mo 5 &kp CAPSLOCK>,
                 <&macro_pause_for_release>,
                 <&macro_release>,
-                <&mo 5 &kp LA(LC(LEFT_GUI))>;
+                <&mo 5 &kp CAPSLOCK>;
 
             label = "CAPS_LAYER";
         };
