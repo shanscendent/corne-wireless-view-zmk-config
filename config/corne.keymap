@@ -9,7 +9,7 @@
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/keys.h>
 
-hold-while-undecided;};
+&lt { hold-while-undecided; };
 
 &caps_word { continue-list = <UNDERSCORE BACKSPACE DELETE MINUS>; };
 
